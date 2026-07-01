@@ -1,0 +1,4 @@
+wwwroot\uploads\admin1.png
+wwwroot\uploads\admin2.png
+wwwroot\uploads\employee1.jpg
+wwwroot\uploads\invoicika.png

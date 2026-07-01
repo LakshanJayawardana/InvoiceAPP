@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Madus\Desktop\Projects\Invoiceproject\WebAPI\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2026-06-28T18:36:00.0338874Z||;True|2024-09-07T23:47:10.7501906+05:30||;True|2024-09-07T20:22:00.5219182+05:30||;True|2024-09-07T19:46:00.6451403+05:30||;True|2024-09-07T07:39:28.9941171+05:30||;True|2024-09-07T07:38:16.1609442+05:30||;True|2024-09-07T07:38:04.5931663+05:30||;True|2024-09-07T07:36:20.1850121+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
